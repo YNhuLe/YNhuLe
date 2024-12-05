@@ -48,6 +48,7 @@
 <h2 align="left">🌱Currently Learning</h2>
 
 ###
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -73,6 +74,7 @@
 
 <p align="left">Connecting with folks on social media is like joining a group project—sometimes you find collaborators, other times, you just get memes and chaos... both are valuable. 😆</p>
 
+###
 ###
 
 <div align="left">
