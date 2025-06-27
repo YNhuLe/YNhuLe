@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Aspiring Software Developer | Full-Stack Explorer<br>"Turning lines of code into user-friendly magic." ✨</p>
+<p align="left">Software Developer | Full-Stack Explorer<br>"Turning lines of code into user-friendly magic." ✨</p>
 <p align="left">I'm looking for Junior Software Developer/ Learning and Growing opportunities. " ✨</p>
 
 ###
